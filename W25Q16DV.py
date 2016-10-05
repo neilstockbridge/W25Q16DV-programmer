@@ -1,4 +1,6 @@
 #
+# See: http://www.winbond.com/resource-files/w25q16dv_revi_nov1714_web.pdf
+#
 # Options:
 #
 #   1)  Require that calling code check status().BUSY is False before making
