@@ -18,7 +18,7 @@
 
 import io
 import sys
-import spi_flash as flash
+import W25Q16DV as flash
 
 
 def dump (address, bytes_left_to_read, path_to_file):
